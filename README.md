@@ -97,16 +97,6 @@ pip install cryptography matplotlib
 
 ---
 
-## 📚 Reference
-
-This project is based on the research paper:
-
-**"Secure File Encryption and Key Management Using ECIES with Key Rotation and Secure Shredding"**  
-📅 *To appear in*: *Indian Journal of Natural Sciences, Vol.16 / Issue 89 / April 2025*  
-👤 *Author*: **Pranay Sharma**, VIT Chennai
-
----
-
 ## 💡 Future Work
 
 - 🔐 Post-quantum cryptographic upgrades  
@@ -117,12 +107,6 @@ This project is based on the research paper:
 
 ---
 
-## 📃 License
-
-This project is open-source for academic and research use.  
-📩 For enterprise or commercial licensing, please contact the author.
-
----
 
 **Made with 💻 by Pranay Sharma**  
 📧 pranay.sharma2022@vitstudent.ac.in
