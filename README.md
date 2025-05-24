@@ -77,6 +77,7 @@ KeyCrypt Shield is a comprehensive file-level encryption system that combines El
 Install dependencies:
 ```bash
 pip install cryptography matplotlib
+```
 
 ## 📈 Results
 
